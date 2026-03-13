@@ -1,5 +1,4 @@
-# Знайти суму елементів із парними індексами
-number =[6]
+number =[12,3,4,5,1,3]
 sum_number = 0
 if len(number) == 0 :
         print(0)
