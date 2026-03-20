@@ -27,7 +27,7 @@ while True:
                     print(f"Additional numbers :{numbers}")
                 break
             except ValueError:
-                print("Please enter corect a number")
+                print("Please enter correct a number")
     elif whanted == "no" or whanted == "n":
         print("Goodbye")
         break
